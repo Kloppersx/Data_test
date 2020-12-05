@@ -3,7 +3,7 @@
 	"features": [{
 		"type": "Feature",
 		"properties": {
-			"name": "Baxley"
+			"name": "Bexley"
 		},
 		"geometry": {
 			"type": "Polygon",
